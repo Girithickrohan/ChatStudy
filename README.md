@@ -75,10 +75,9 @@ Client-server chat applications are foundational to real-time communication over
 
 ## Program
 
-Developed by : Shanmuga Vasanth M
+Developed by : GIRITHICK ROHAN N
 
-Register Number : 212223040191
-
+Register Number : 212223230063
 ## Client
 ```
 import socket
